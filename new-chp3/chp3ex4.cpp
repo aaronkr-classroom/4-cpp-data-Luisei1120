@@ -6,7 +6,7 @@ using std::cout; using std::cin;
 using std::endl; using std::string;
 
 int main() {
-	cout << "Enter all world follwend by EOF: ";
+	cout << "Enter: ";
 
 	string max = "";
 	string min = "";

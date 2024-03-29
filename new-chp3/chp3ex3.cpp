@@ -23,6 +23,7 @@ int main() {
 	typedef vector<string>::size_type vec_sz;
 	
 	cout << "Words: " << words.size();
+
 	return 0;
 
 }
